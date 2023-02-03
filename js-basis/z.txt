@@ -5,3 +5,5 @@
 07. 为什么proxy一定要搭配proxy使用？因为proxy里的receiver会修改this指向https://juejin.cn/post/7080916820353351688
 09. 原型和原型链
 10. 变量和作用域
+12. 继承（由继承引出类的概念）
+13.new操作符做了什么事情
