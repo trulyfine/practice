@@ -18,3 +18,11 @@ console.log(myIterator.next());
 console.log(myIterator.next());
 console.log(myIterator.next());
 console.log(myIterator.next());
+console.log('------------------');
+let arr = [1, 2, 3]
+console.log("🚀 ~ file: 07_iterator.js:23 ~ arr", arr[Symbol.iterator]());
+let arrIterator = arr[Symbol.iterator]();
+console.log(arrIterator.next());
+console.log(arrIterator.next());
+console.log(arrIterator.next());
+console.log(arrIterator.next());
