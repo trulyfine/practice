@@ -8,3 +8,7 @@
 08.symbol联系
 09.set基础用法练习
 10.set扩展运用
+11.proxy与Object.defineProperty
+12.defineProperty和proxy的差别(关于栈溢出的问题)
+13.getDate()方法只能在date对象上调用 因此将该方法绑定在原对象上调用
+14.proxy监听数组和object.defineProperty监听数组的区别
