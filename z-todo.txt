@@ -1,0 +1,1 @@
+1.【未学】20210316学习完es6之后应该学js异步（promise, generator, async）学完之后记得做标记

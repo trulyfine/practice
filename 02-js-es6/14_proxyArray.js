@@ -51,3 +51,6 @@ let cproxy = new Proxy(color2,{
 // cproxy.unshift('green');
 // cproxy.pop();
 cproxy.shift();
+/**
+ * 使用proxy,数组的每一个方法的set和get都能被监听到
+ */
